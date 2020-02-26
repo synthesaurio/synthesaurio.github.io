@@ -3,15 +3,15 @@ author: "Jose Pablo Gomez-Vazquez"
 output_dir: "."  
 output:  
   html_document:  
-    self_contained: no  
-    theme: sandstone  
+    #self_contained: no  
+    theme: darkly
 navbar:
   title: Synthesaurio
   left:
   - text: Home
     href: index.html
-  #- text: About Me
-   # href: Research.html
+  - text: About
+    href: About.html
   #- text: CV
     #href: CV.html
   #- text: Training
@@ -19,10 +19,10 @@ navbar:
     
   - text: Contact
     menu:
-    - icon: fa-github
-      href: https://github.com/jpablo91
-    - icon: fa-linkedin
-      href: https://www.linkedin.com/in/pablo-gomez-v-b19553129/
+    - icon: fa-instagram
+      href: https://www.instagram.com/synthesaurio/
+    - icon: fa-youtube
+      href: https://www.youtube.com/user/havokcc
     - icon: fa-envelope
       href: mailto:synthesaurio@gmail.com
       
