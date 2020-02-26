@@ -1,0 +1,30 @@
+name: "Synthesaurio"  
+author: "Jose Pablo Gomez-Vazquez"  
+output_dir: "."  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: sandstone  
+navbar:
+  title: Synthesaurio
+  left:
+  - text: Home
+    href: index.html
+  #- text: About Me
+   # href: Research.html
+  #- text: CV
+    #href: CV.html
+  #- text: Training
+    #href: Training.html
+    
+  - text: Contact
+    menu:
+    - icon: fa-github
+      href: https://github.com/jpablo91
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/pablo-gomez-v-b19553129/
+    - icon: fa-envelope
+      href: mailto:synthesaurio@gmail.com
+      
+      
+#© 2019 GitHub, Inc.
