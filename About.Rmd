@@ -14,4 +14,4 @@ Synthesaurio is a project with two parallel facets:
   
   - **Synthesaurio:[Wide Space]**.In the second facet, synthesaurio takes a more ambient approach. Inspired by natural landscapes, synthesaurio plays long and sustained pads and drones with a mix of bells and FM-like synthesized leads for a much more relaxed and chill vibe. Great for audiovisual experiences and meditation and soundbaths.  
   
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2582810741/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://synthesaurio.bandcamp.com/track/the-green">The Green by Synthesaurio</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2582810741/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://synthesaurio.bandcamp.com/track/the-green">The Green by Synthesaurio</a></iframe>
