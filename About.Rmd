@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-# Synthesaurio is Pablo Gomez. A multi instrumentalist from Mexico that enjoys exploring sounds trough music. Currently Synthesaurio is located in California.  
+# Synthesaurio is Pablo Gomez. A multi instrumentalist from Mexico that enjoys exploring sounds trough music.  
 
-<img src ="Photos/ResFreq022.jpg">
+<img src ="Photos/Header.jpg">
 
 ## Inspired by science fiction and natural landscapes. This project is all about live performance and exploring sounds in a semi improvised act.  
 
