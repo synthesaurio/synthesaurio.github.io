@@ -1,0 +1,12 @@
+---
+title: "Listen to Synthesaurio"
+---
+
+# Music on Spotify
+
+<iframe src="https://open.spotify.com/embed/artist/6I82d8Cma7jwrCZFFfbidn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+# See Synthesaurio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gEYM1NKMXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

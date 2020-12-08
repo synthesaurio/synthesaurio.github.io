@@ -1,0 +1,11 @@
+---
+title: "Who is Pablo Gomez"
+---
+
+<img src="Photos/headshot.png" style="width:30%;float:right"/>
+
+
+
+Hi I am Pablo Gomez I was born in Guanajuato, Mexico. Growing up I was always fascinated by science and nature. I have a career in Veterinary epidemiology and currently work as a researcher working on modeling the spread of animal and human diseases, but playing music has been always an important part of who I am.\
+Growing up I was always fascinated by science and nature and I find most of my inspiration for synthesaurio from there. 
+My day job gives me the opportunity to travel and learn about computer programming. When composing music I often use generative processes, both in computer programming and eurorack, combined with field recordings I take on my travel.
