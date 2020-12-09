@@ -3,7 +3,7 @@ title: "HOME"
 ---
 
 <div class="index-main">
-  <div class="main-photo"><img src="Photos/SynthesaurioLogo.png"></div>
+  <div class="main-photo"><img src="Photos/Logo_NB.png"></div>
   <div id="main-text">
   <div class="inner-text">
   <!-- <h4>PhD Epidemiology</h4> -->
