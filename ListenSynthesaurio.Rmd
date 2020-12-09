@@ -4,7 +4,9 @@ title: "Listen to Synthesaurio"
 
 ## Spotify
 
-<iframe src="https://open.spotify.com/embed/artist/6I82d8Cma7jwrCZFFfbidn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/artist/6I82d8Cma7jwrCZFFfbidn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+
+</iframe>
 
 ## Bandcamp
 
@@ -17,10 +19,17 @@ title: "Listen to Synthesaurio"
 ## Other platforms
 
 Synthesaurio is also available on other platforms including Apple Music, Deezer, among others.
-  
-  
-
 
 # See Synthesaurio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3gEYM1NKMXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Excerpt of a performance made for a virtual event.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gEYM1NKMXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+### Performance at home
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uUnKK-vHiW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
