@@ -6,7 +6,7 @@ output:
     #self_contained: no  
     theme: darkly
 navbar:
-  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"Photos/Logo_nb.png\" />"
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"Photos/Logo_NB.png\" />"
   left:
   - text: Home
     href: index.html
