@@ -6,7 +6,7 @@ output:
     #self_contained: no  
     theme: darkly
 navbar:
-  title: Synthesaurio
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"Photos/Logo_nb.png\" />"
   left:
   - text: Home
     href: index.html
@@ -14,16 +14,26 @@ navbar:
     href: About.html
   - text: Listen to Synthesaurio
     href: ListenSynthesaurio.html
-  #- text: Training
-    #href: Training.html
     
   - text: Contact
     menu:
     - icon: fa-instagram
+      text: Instagram
       href: https://www.instagram.com/synthesaurio/
     - icon: fa-youtube
+      text: YT
       href: https://www.youtube.com/channel/UCvNDrU0rTWVbRDkm8CdQ4hw
+    - icon: fa-bandcamp
+      text: Bandcamp
+      href: https://synthesaurio.bandcamp.com
+    - icon: fa-soundcloud
+      text: Soundcloud
+      href: https://soundcloud.com/synthesaurio
+    - icon: fa-spotify
+      text: Spotify
+      href: https://open.spotify.com/artist/6I82d8Cma7jwrCZFFfbidn?si=WszWBZunSjuUYZtP91iT9w
     - icon: fa-envelope
+      text: EmailMe
       href: mailto:synthesaurio@gmail.com
       
       
