@@ -6,12 +6,14 @@
   </url><url>
     <loc>http://www.synthesaurio.com/categories/</loc>
   </url><url>
-    <loc>http://www.synthesaurio.com/music/</loc>
+    <loc>http://www.synthesaurio.com/media/</loc>
   </url><url>
-    <loc>http://www.synthesaurio.com/see/</loc>
+    <loc>http://www.synthesaurio.com/media/music/</loc>
   </url><url>
     <loc>http://www.synthesaurio.com/</loc>
   </url><url>
     <loc>http://www.synthesaurio.com/tags/</loc>
+  </url><url>
+    <loc>http://www.synthesaurio.com/media/video/</loc>
   </url>
 </urlset>
