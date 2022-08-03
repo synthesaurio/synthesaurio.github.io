@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthesaurio</title>
-    <link>https://synthesaurio.github.io/</link>
+    <link>http://synthesaurio.com/</link>
     <description>Recent content on Synthesaurio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://synthesaurio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://synthesaurio.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://synthesaurio.github.io/about/</link>
+      <link>http://synthesaurio.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://synthesaurio.github.io/about/</guid>
+      <guid>http://synthesaurio.com/about/</guid>
       <description>Hi I am Pablo Gomez, born in Guanajuato, Mexico. Research epidemiologist by day, audiovisual artist by night; I have been working in health sciences for the last 10 year. Trough my journey I have been fortunate to see the world from many perspectives. From working in farms in the southern border of Mexico, to working surrounded by computers in the basement of a research institution. I am interested in the intersection of science and art and how we can use technology to unravel the beauty of complex systems.</description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://synthesaurio.github.io/music/</link>
+      <link>http://synthesaurio.com/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://synthesaurio.github.io/music/</guid>
+      <guid>http://synthesaurio.com/music/</guid>
       <description>My music is very volatile to my mood and feelings, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house songs.
 Spotify Bandcamp The Green by Synthesaurio
 Other platforms Synthesaurio is also available on other platforms including Apple Music, Deezer, among others.</description>
@@ -28,10 +28,10 @@ Other platforms Synthesaurio is also available on other platforms including Appl
     
     <item>
       <title>See</title>
-      <link>https://synthesaurio.github.io/see/</link>
+      <link>http://synthesaurio.com/see/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://synthesaurio.github.io/see/</guid>
+      <guid>http://synthesaurio.com/see/</guid>
       <description> See Synthesaurio Instagram View this post on Instagram A post shared by Synthesaurio (a.k.a Pablo G) (@synthesaurio.av) Excerpt of a performance made for a virtual event. Performance at home </description>
     </item>
     
