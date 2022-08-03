@@ -6,7 +6,7 @@ output: html_document
 # The unbearable curse of time
 
 The unbearable curse of time is my first EP release. In this album I compiled a series of tracks composed between June-August 2022.  
-Here is the demo for the first track on the EP, the demo can also be listened in [soundcloud]()  
+Here is the demo for the first track on the EP, the demo can also be listened in [soundcloud](https://soundcloud.com/synthesaurio/tucot-i/s-lS75pSiBeeW?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OZwXZnqFS9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
