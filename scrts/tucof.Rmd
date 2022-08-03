@@ -1,0 +1,15 @@
+---
+title: "TUCOT"
+output: html_document
+---
+
+# The unbearable curse of time
+
+The unbearable curse of time is my first EP release. In this album I compiled a series of tracks composed between June-August 2022.  
+Here is the demo for the first track on the EP, the demo can also be listened in [soundcloud]()  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZwXZnqFS9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+*The EP is still in the process of mastering, this website is meant to be for sharing the first unreleased track with other colleagues and producers, please don't share this link other than for logistics purposes*
