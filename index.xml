@@ -19,6 +19,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://synthesaurio.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesaurio.github.io/about/</guid>
+      <description>Hi I am Pablo Gomez, born in Guanajuato, Mexico. Research epidemiologist by day, audiovisual artist by night; I have been working in health sciences for the last 10 year. Trough my journey I have been fortunate to see the world from many perspectives. From working in farms in the southern border of Mexico, to working surrounded by computers in the basement of a research institution. I am interested in the intersection of science and art and how we can use technology to unravel the beauty of complex systems.</description>
+    </item>
+    
+    <item>
       <title>elements</title>
       <link>https://synthesaurio.github.io/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
