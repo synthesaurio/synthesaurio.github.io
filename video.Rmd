@@ -23,8 +23,5 @@ Part of my artistic practice is experimenting with visuals using creative coding
 
 ---------------------
 
-### Performance at home
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUnKK-vHiW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
