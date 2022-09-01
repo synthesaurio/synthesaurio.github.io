@@ -2,7 +2,8 @@
 title: "Music"
 output: html_document
 ---
-Sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house songs.  
+Sometimes I make ambient, sometimes a mix of Nu-Cumbia/House. I am currently working in my next album that will be a compilation of Nu-Cumbia/House songs.  
+
 
 ## Spotify
 
