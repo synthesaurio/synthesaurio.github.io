@@ -2,7 +2,7 @@
 title: "Music"
 output: html_document
 ---
-My music is very volatile to my mood and feelings, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house songs.  
+Sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house songs.  
 
 ## Spotify
 

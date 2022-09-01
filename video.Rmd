@@ -1,0 +1,30 @@
+---
+title: "Video"
+output: html_document
+---
+# See Synthesaurio
+
+### Visuals
+
+Part of my artistic practice is experimenting with visuals using creative coding:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5c6ciKB2Vqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---------------------
+
+
+### Excerpt of a performance made for a virtual event.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBc4UNAMgVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----------------
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gEYM1NKMXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---------------------
+
+### Performance at home
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uUnKK-vHiW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
