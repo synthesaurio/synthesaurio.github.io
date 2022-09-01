@@ -10,3 +10,7 @@ In my "daytime" job I use techniques in statistics, programming and simulation m
 I am an advocate of open access frameworks and affordable computing, and I am interested in liberating from the capitalist thinking that you need expensive tools to make good digital art.
 
 You can find my music on all streaming platforms including: [Bandcamp](https://synthesaurio.bandcamp.com), [Soundcloud](https://soundcloud.com/synthesaurio), [Spotify](https://open.spotify.com/artist/6I82d8Cma7jwrCZFFfbidn?si=_QZfD3wFT0aAZLKQUKg3Ug), [YouTube](https://www.youtube.com/channel/UCvNDrU0rTWVbRDkm8CdQ4hw) and Apple Music.
+  
+## Social media
+
+<input type="button" onclick="location.href='https://www.instagram.com/synthesaurio.av/';" value="Instagram" />
