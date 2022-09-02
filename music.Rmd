@@ -4,6 +4,18 @@ output: html_document
 ---
 Sometimes I make ambient, sometimes a mix of NuCumbia/House. I am currently working in my next album that will be a compilation of NuCumbia/House songs.  
 
+## Soundcloud
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1335932563&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/synthesaurio" title="Synthesaurio" target="_blank" style="color: #cccccc; text-decoration: none;">Synthesaurio</a> · <a href="https://soundcloud.com/synthesaurio/triskele" title="Triskèle" target="_blank" style="color: #cccccc; text-decoration: none;">Triskèle</a></div>
+
+</iframe>
+
+
+## Bandcamp
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3777087992/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://synthesaurio.bandcamp.com/track/trisk-le">Triskèle by Synthesaurio</a></iframe>
+
+</iframe>
 
 ## Spotify
 
@@ -11,13 +23,7 @@ Sometimes I make ambient, sometimes a mix of NuCumbia/House. I am currently work
 
 </iframe>
 
-## Bandcamp
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2582810741/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless>
-
-<a href="http://synthesaurio.bandcamp.com/track/the-green">The Green by Synthesaurio</a>
-
-</iframe>
 
 ## Other platforms
 

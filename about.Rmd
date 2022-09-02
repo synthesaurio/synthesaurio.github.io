@@ -14,3 +14,5 @@ You can find my music on all streaming platforms including: [Bandcamp](https://s
 ## Social media
 
 <input type="button" onclick="location.href='https://www.instagram.com/synthesaurio.av/';" value="Instagram" />
+
+<input type="button" onclick="location.href='https://www.youtube.com/channel/UCvNDrU0rTWVbRDkm8CdQ4hw';" value="Youtube" />
