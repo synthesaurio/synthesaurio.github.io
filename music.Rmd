@@ -2,7 +2,7 @@
 title: "Music"
 output: html_document
 ---
-Sometimes I make ambient, sometimes a mix of NuCumbia/House. I am currently working in my next album that will be a compilation of NuCumbia/House songs.  
+Sometimes I make ambient, sometimes a mix of NuCumbia/House. I am currently working in my next album that will be a compilation of NuCumbia/House songs. **The Unbearable Curse of Time** will be released *the 21st night of September* on all digital platforms.     
 
 ## Soundcloud
   
