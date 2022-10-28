@@ -1,0 +1,23 @@
+---
+title: Listen
+---
+
+I like exploring different generes of music, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.  
+
+## Spotify
+
+<iframe src="https://open.spotify.com/embed/artist/6I82d8Cma7jwrCZFFfbidn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+
+</iframe>
+
+## Bandcamp
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2582810741/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless>
+
+<a href="http://synthesaurio.bandcamp.com/track/the-green">The Green by Synthesaurio</a>
+
+</iframe>
+
+## Other platforms
+
+Synthesaurio is also available on other platforms including Apple Music, Deezer, among others.

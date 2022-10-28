@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synthesaruio on Synthesaurio</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Synthesaruio on Synthesaurio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hi I am Pablo Gomez, born in Guanajuato, Mexico. Research epidemiologist by day, audiovisual artist by night; I have been working in health sciences for the last 10 year. Trough my journey I have been fortunate to see the world from many perspectives. From working in farms in the southern border of Mexico, to working surrounded by computers in the basement of a research institution. I am interested in the intersection of science and art and how we can use technology to unravel the beauty of complex systems.</description>
+    </item>
+    
+    <item>
+      <title>Listen</title>
+      <link>http://example.org/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/music/</guid>
+      <description>I like exploring different generes of music, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.
+Spotify Bandcamp The Green by Synthesaurio
+Other platforms Synthesaurio is also available on other platforms including Apple Music, Deezer, among others.</description>
+    </item>
+    
+    <item>
+      <title>See</title>
+      <link>http://example.org/see/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/see/</guid>
+      <description>See Synthesaurio Part of Synthesaurio is the generation of audio reactive generative visuals. I use glsl and other tools to prepare my visuals and tweak them live during my performances. I get my inspired from complex systems thinking and the emergence of macro patterns from individual behaviors.
+Instagram View this post on Instagram A post shared by Synthesaurio (a.k.a Pablo G) (@synthesaurio.av) Excerpt of a performance made for a virtual event.</description>
+    </item>
+    
+  </channel>
+</rss>
