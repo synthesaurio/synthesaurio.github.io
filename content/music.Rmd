@@ -2,8 +2,8 @@
 title: Listen
 ---
 
-I like exploring different generes of music, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks. 
-
+I like exploring different generes of music, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.
+  
 ## FOMO Los Pajaros
 
 My most recent release is inspired by the chicha peruana and the birds of Latin America. I had some fun synthesizing bird sounds using frequency modulation synthesis. The song was composed and produced using the [M8 tracker](https://dirtywave.com) and mastered externally. You can listen to it on soundcloud:
