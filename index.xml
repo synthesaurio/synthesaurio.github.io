@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Synthesaruio on Synthesaurio</title>
-    <link>http://www.synthesaurio.com/</link>
-    <description>Recent content in Synthesaruio on Synthesaurio</description>
+    <title>Your Name on My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Your Name on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.synthesaurio.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://www.synthesaurio.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Hello R Markdown</title>
+      <link>http://example.org/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.synthesaurio.com/about/</guid>
-      <description>Hi I am Pablo Gomez, born in Guanajuato, Mexico. Research epidemiologist by day, audiovisual artist by night; I have been working in health sciences for the last 10 year. Trough my journey I have been fortunate to see the world from many perspectives. From working in farms in the southern border of Mexico, to working surrounded by computers in the basement of a research institution. I am interested in the intersection of science and art and how we can use technology to unravel the beauty of complex systems.</description>
+      <guid>http://example.org/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
-      <title>Music</title>
-      <link>http://www.synthesaurio.com/music/</link>
+      <title>elements</title>
+      <link>http://example.org/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.synthesaurio.com/music/</guid>
-      <description>I like exploring different music generes, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.
-FOMO Los Pajaros My most recent release is inspired by the chicha peruana and birds of Latin America. I had some fun synthesizing bird sounds using frequency modulation synthesis. The song was composed and produced using the M8 tracker and mastered externally.</description>
-    </item>
-    
-    <item>
-      <title>See</title>
-      <link>http://www.synthesaurio.com/see/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.synthesaurio.com/see/</guid>
-      <description>See Synthesaurio Part of Synthesaurio is the generation of audio reactive generative visuals. I use glsl and other tools to prepare my visuals and tweak them live during my performances. I get my inspired from complex systems thinking and the emergence of macro patterns from individual behaviors.
-Instagram View this post on Instagram A post shared by Synthesaurio (a.k.a Pablo G) (@synthesaurio.av)
-Excerpt of a performance made for a virtual event.</description>
+      <guid>http://example.org/elements/</guid>
+      <description>Table of contents Table of contents Text Code Python C/C++ Bash Tables Text Some example text
+Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables Pages Elements 1 Text 2 Code 3 Tables </description>
     </item>
     
   </channel>
