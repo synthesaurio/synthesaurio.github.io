@@ -16,13 +16,13 @@
     </item>
     
     <item>
-      <title>Listen</title>
+      <title>Music</title>
       <link>http://www.synthesaurio.com/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.synthesaurio.com/music/</guid>
-      <description>I like exploring different generes of music, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.
-FOMO Los Pajaros My most recent release is inspired by the chicha peruana and the birds of Latin America. I had some fun synthesizing bird sounds using frequency modulation synthesis. The song was composed and produced using the M8 tracker and mastered externally.</description>
+      <description>I like exploring different music generes, sometimes I make ambient, sometimes a mix of nu-cumbia/house. I am currently working in my next album that will be a compilation of nu-cumbia/house tracks.
+FOMO Los Pajaros My most recent release is inspired by the chicha peruana and birds of Latin America. I had some fun synthesizing bird sounds using frequency modulation synthesis. The song was composed and produced using the M8 tracker and mastered externally.</description>
     </item>
     
     <item>
@@ -32,7 +32,8 @@ FOMO Los Pajaros My most recent release is inspired by the chicha peruana and th
       
       <guid>http://www.synthesaurio.com/see/</guid>
       <description>See Synthesaurio Part of Synthesaurio is the generation of audio reactive generative visuals. I use glsl and other tools to prepare my visuals and tweak them live during my performances. I get my inspired from complex systems thinking and the emergence of macro patterns from individual behaviors.
-Instagram View this post on Instagram A post shared by Synthesaurio (a.k.a Pablo G) (@synthesaurio.av) Excerpt of a performance made for a virtual event.</description>
+Instagram View this post on Instagram A post shared by Synthesaurio (a.k.a Pablo G) (@synthesaurio.av)
+Excerpt of a performance made for a virtual event.</description>
     </item>
     
   </channel>
