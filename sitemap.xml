@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.synthesaurio.com/about/</loc>
+    <loc>http://www.synthesaurio.com/about/</loc>
   </url><url>
-    <loc>https://www.synthesaurio.com/categories/</loc>
+    <loc>http://www.synthesaurio.com/categories/</loc>
   </url><url>
-    <loc>https://www.synthesaurio.com/music/</loc>
+    <loc>http://www.synthesaurio.com/music/</loc>
   </url><url>
-    <loc>https://www.synthesaurio.com/see/</loc>
+    <loc>http://www.synthesaurio.com/see/</loc>
   </url><url>
-    <loc>https://www.synthesaurio.com/</loc>
+    <loc>http://www.synthesaurio.com/</loc>
   </url><url>
-    <loc>https://www.synthesaurio.com/tags/</loc>
+    <loc>http://www.synthesaurio.com/tags/</loc>
   </url>
 </urlset>
