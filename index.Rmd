@@ -1,5 +1,9 @@
 ---
-site: blogdown:::blogdown_site
+title: "Synthesaurio"
 ---
 
-<!-- This file is for blogdown only. Please do not edit it. -->
+![](img/logo_nb.png)
+
+<!-- <iframe src="https://jpablo91.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframejpablo91" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://jpablo91.youcanbook.me"){document.getElementById("ycbmiframejpablo91").style.height = event.data + "px";}}, false);</script> -->
+
+<!-- <hr> -->
