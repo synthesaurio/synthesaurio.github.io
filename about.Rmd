@@ -1,6 +1,10 @@
 ---
 title: About
 ---
+
+Synthesaurio is an audiovisual project by Pablo Gomez. Pablo is a research epidemiologist by day, by night he likes to experiment with sound and light to create semi generative landscapes reflecting on nature and our relationship as humans with it. Synthesaurio experiments with the umwelt, the subjective way of perceiving the world based on one's experiences. In his project, he experiments with interchanging signals trough different algorithms to intervene the sound design and visual composition process to generate audiovisual reinterpretations of the world. Relying on abstractions, invites the audience to reinterpret his work based on their own personal experiences.
+
+# Who is Pablo?
  
 <img src="img/Pablo.jpg" width="500" float=center/>  
 
