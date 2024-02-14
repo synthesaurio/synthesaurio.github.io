@@ -20,6 +20,8 @@ navbar:
     href: see.html
   - text: Hear
     href: music.html
+  - text: Other projects
+    href: projects.html
       
       
       

@@ -11,7 +11,7 @@
 
 
 
-<title>About</title>
+<title>Projects</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -219,6 +222,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -226,6 +292,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -269,47 +345,35 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About</h1>
+<h1 class="title toc-ignore">Projects</h1>
 
 </div>
 
 
-<p>Synthesaurio is an audiovisual project by Pablo Gomez. Pablo is a
-research epidemiologist by day, by night he likes to experiment with
-sound and light to create semi generative landscapes reflecting on
-nature and our relationship as humans with it. Synthesaurio experiments
-with the umwelt, the subjective way of perceiving the world based on
-one’s experiences. In his project, he experiments with interchanging
-signals trough different algorithms to intervene the sound design and
-visual composition process to generate audiovisual reinterpretations of
-the world. Relying on abstractions, invites the audience to reinterpret
-his work based on their own personal experiences.</p>
-<div id="who-is-pablo" class="section level1">
-<h1>Who is Pablo?</h1>
-<p><img src="img/Pablo.jpg" width="500" float=center/></p>
-<p>Hi I am Pablo Gomez, born in Guanajuato, Mexico. Research
-epidemiologist by day, audiovisual artist by night; I have been working
-in health sciences for the last 10 year. Trough my journey I have been
-fortunate to see the world from many perspectives. From working in farms
-in the southern border of Mexico, to working surrounded by computers in
-the basement of a research institution. I am interested in the
-intersection of science and art and how we can use technology to unravel
-the beauty of complex systems.<br />
-In my “daytime” job I use techniques in statistics, programming and
-simulation modeling; in my artistic work I like to explore techniques
-such as algorithmic composition for both music and visuals. I find my
-inspiration in the interrelationship of human society with nature, and I
-like to think that my work serves as bridges between different areas of
-knowledge.<br />
-I am an advocate of open access frameworks and affordable computing, and
-I am interested in liberating from the capitalist thinking that you need
-expensive tools to make good digital art.</p>
-<p>You can find my music on all streaming platforms including: Bandcamp,
-Spotify, YouTube and Apple Music.</p>
+<div id="data-visualization" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> Data visualization</h1>
+<div id="ar" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> AR</h2>
+</div>
+<div id="data-sonification" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Data
+Sonification</h2>
+</div>
+</div>
+<div id="sound-design" class="section level1" number="2">
+<h1><span class="header-section-number">2</span> Sound design</h1>
+<p>On 2020 I made the sound design for the intro used by Estudios
+Planeteando, which is a podcast producer centered on science
+communication. Here is an example of the intro in one of the epideodes
+from their podcasts:</p>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/econom%C3%ADa-cambio-clim%C3%A1tico-y-medio-ambiente/id1544690451?i=1000577822515">
+</iframe>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -342,6 +406,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
