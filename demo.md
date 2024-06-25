@@ -6,14 +6,18 @@ My music is heavily resonate deeply with my nostalgia borne from my distance fro
 
 More of my music can be found in my other music platform profiles.
 
+----------
+
+# Performance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-QYXI7i82Y?si=BQzJdfeOIFiRELiN&amp;start=347" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/NqRuc0JHAv0?si=RE5c5AsYYBahH3rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 -----------
 
 # Visuals
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI9KrOo1SmY?si=gvY3xTNXgwduCBoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-----------
-
-# Performance
-
-<iframe width="315" height="560" src="https://www.youtube.com/embed/NqRuc0JHAv0?si=RE5c5AsYYBahH3rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
