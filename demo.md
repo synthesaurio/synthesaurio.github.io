@@ -1,3 +1,7 @@
+# *This website is intended to demonstrate the work of Synthesaurio for promotion purposes, please do not distribute without previous authorization*
+
+----
+
 # Music
 
 Other people has described my music as: ambient, techno, cumbia, vaporwave, house; but I like to describe my music as **experimental cumbia**. My music is an expression of my nostalgia borne from my distance from my homeland, as well as a voice telling the stories of the world around me; trying to both preserve my Mexican identity while evolving incorporating new experiences as a migrant. Drawing from diverse influences, I fuse Latin rhythms from reggaeton and cumbia with ambient drones, soundscapes, and electronic genres like techno and house. Here is a brief demo of one of the tracks I have been working recently:
