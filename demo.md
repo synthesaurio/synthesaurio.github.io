@@ -1,4 +1,4 @@
-# *This website is intended to demonstrate the work of Synthesaurio for promotion purposes, please do not distribute without previous authorization*
+# *This website is intended to demonstrate the work of Synthesaurio for promotion purposes, please do not distribute without previous authorization.*
 
 ----
 
