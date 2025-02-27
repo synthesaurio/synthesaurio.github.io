@@ -6,6 +6,12 @@ title: See
 
 Part of Synthesaurio is the generation of audio reactive generative visuals. I use glsl and other tools to prepare my visuals and tweak them live during my performances. I get my inspired from complex systems thinking and the emergence of macro patterns from individual behaviors. 
 
+## 2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZZdl9iUCE8?si=EXEkHAWmXO62_IjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 2023
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI9KrOo1SmY?si=gvY3xTNXgwduCBoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Interview and AV performance
