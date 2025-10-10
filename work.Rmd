@@ -1,0 +1,95 @@
+---
+title: "Work examples"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Music
+
+## Ambient work
+
+Most of my ambient work happened between 2021-2023, I self released a couple of singles and performed in multiple venues across Davis/Sac/Bay Area. An example of a performance can be found in the following link:
+
+<iframe width="100%" height="60" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fjose-pablo-gomez-v%2F08132023%2F" frameborder="0">
+
+</iframe>
+
+## Cumbias esotericas de Aztlan
+
+This is a full length album that is in the process of being released. The album covers topics on immigration, international solidarity and degrowth. The first part of the album was released in August 15 2025 and can be listened in the following link:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1765479881/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless>
+
+<a href="https://synthesaurio.bandcamp.com/album/c-mbias-esot-ricas-de-aztl-n-vol-1"> Cúmbias Esotéricas de Aztlán Vol. 1 by Synthesaurio</a>
+
+</iframe>
+
+Second part is planned to be released sometime in November and part 3 planned to be released in early 2026.
+
+--- 
+
+# Illustration/Prints
+
+## Print Making
+
+My work in print making covers similar topics as in my music. Previous work has been used in promotional materials for events, and clothes such as bandanna and shirts.
+
+This is a design I did for an event, the money from the bandanna sales was donated to some local mutual aid organizations. Medium screen printing on fabric.
+
+![](img/work/2025-bndannas-01.png){width="30%"}
+![](img/work/2025-bndannas-02.jpeg){width="30%"}
+  
+  
+This is another illustration I made for an art show at third space in July 2025:    
+
+![](img/work/illustration-02.jpeg){width="60%"}
+
+This is a design I made for my bike team, since 2024 we have been participating in the [Ride for Palestine](https://rideforpalestine.com), which is a fundraiser organized by [MECA](https://www.mecaforpeace.org).
+
+![](img/work/2507-sb-01.jpeg){width="45%"} ![](img/work/2507-sb-02.jpeg){width="45%"}
+
+---
+
+# Events
+
+Part of my artistic practice includes actively participate in creating spaces for community building. Here are some of the recent events I was involved with the organization.
+
+## Spiritual Exit tour, September 2025
+
+Event part of Spiritual Exit tour (Portland, Oregon). The event had an emphasis on ambient/drone/experimental music. Other performers included: Sacramento artist Andrew Wayne and Synthesaurio (myself) performing an ambient set.  
+
+![](img/work/202509-SpEx-01.jpeg){width="30%"}
+![](img/work/202509-SpEx-02.jpeg){width="30%"}
+![](img/work/202509-SpEx-03.jpeg){width="30%"}
+
+
+## CEDA Album Release party, August 2025
+
+Event for the release of the first part of my full length album. Some mutual aid groups were invited to event to share information about their work and ways to get involved. All sales of the tapes and merch was donated to humanitarian relief
+
+![](img/work/2508-cedas-01.JPG){width="30%"}
+![](img/work/2508-cedas-02.jpeg){width="30%"}
+![](img/work/2508-cedas-04.JPG){width="30%"}
+
+![](img/work/2508-cedas-07.JPG){width="30%"} 
+![](img/work/2508-cedas-08.JPG){width="30%"} 
+![](img/work/2508-cedas-09.jpg){width="30%"} 
+
+## May Day in community, May 2025
+
+May day event with emphasis on mutual aid network building. Several mutual aid groups were invited to table and share resources about their work and ways to get involved. Local artists (Davis/Sac/Bay area) donated pieces for a raffle, where raffle tickets raised funds for the mutual aid organizations. Performances included 3 Davis bands and 1 from the Bay area.
+
+![Camelia Boutros band performing at the Bike collective](img/work/2505-mdic-camelia.png){width="30%"} ![Fighting words performing at the Bike collective](img/work/2505-mdic-fw.jpeg){width="30%"}
+![](img/work/2505-mdic-ss.png){width="30%"}
+
+## Experimental Space, September 22, 2024 & February 2nd 2025
+  
+This was a series of event at third space Davis where music artists were paired with visuals creating an immersive experience.  
+  
+![](img/work/2024_ExSp-01.jpeg){width="30%"} 
+![](img/work/2024_ExSp-02.jpeg){width="25%"} 
+![](img/work/2024_ExSp-03.jpeg){width="40%"} 
+
+
