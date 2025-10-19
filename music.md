@@ -1,5 +1,9 @@
 ---
 title: Music
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 # Music
