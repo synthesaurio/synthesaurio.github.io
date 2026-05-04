@@ -14,15 +14,10 @@ navbar:
   right:
   - text: Home
     href: index.html
-  - text: About Me
-    href: about.html
+  - text: Projects
+    href: work.html
   - text: See
     href: see.html
   - text: Hear
     href: music.html
-  - text: Other projects
-    href: projects.html
       
-      
-      
-#© 2019 GitHub, Inc.

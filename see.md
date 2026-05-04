@@ -1,5 +1,9 @@
 ---
 title: See
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
  
 # See Synthesaurio
@@ -32,11 +36,3 @@ Part of Synthesaurio is the generation of audio reactive generative visuals. I u
 ----------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3gEYM1NKMXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----------------------
-
-### Performance at home
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUnKK-vHiW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
